@@ -1,0 +1,4 @@
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/ReceiverTests.dir
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/RUN_TESTS.dir
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/ALL_BUILD.dir
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/ZERO_CHECK.dir

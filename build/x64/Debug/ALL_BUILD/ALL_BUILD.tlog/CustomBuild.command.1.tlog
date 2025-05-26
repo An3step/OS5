@@ -1,0 +1,10 @@
+^C:\APPS\VS CODE\CPP PROJECTS\OS5T\CMAKELISTS.TXT
+setlocal
+C:\Apps\CMake\bin\cmake.exe "-SC:/Apps/VS Code/CPP Projects/OS5T" "-BC:/Apps/VS Code/CPP Projects/OS5T/build" --check-stamp-file "C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

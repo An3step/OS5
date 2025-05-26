@@ -1,0 +1,10 @@
+^C:\APPS\VS CODE\CPP PROJECTS\OS5T\BUILD\CMAKEFILES\576BE554D6BF469B7675A16B85443317\GENERATE.STAMP.RULE
+setlocal
+C:\Apps\CMake\bin\cmake.exe "-SC:/Apps/VS Code/CPP Projects/OS5T" "-BC:/Apps/VS Code/CPP Projects/OS5T/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Apps/VS Code/CPP Projects/OS5T/build/ReceiverTests.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

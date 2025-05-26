@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeDependentOption.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
+C:/Apps/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/CMakeLists.txt
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/3.31.5/CMakeCCompiler.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/3.31.5/CMakeRCCompiler.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/CMakeFiles/3.31.5/CMakeSystem.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/vcpkg_installed/x64-windows/share/gtest/GTestConfig.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/vcpkg_installed/x64-windows/share/gtest/GTestConfigVersion.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-debug.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-release.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets.cmake
+C:/Apps/VS Code/CPP Projects/OS5T/vcpkg-configuration.json
+C:/Apps/VS Code/CPP Projects/OS5T/vcpkg.json
+C:/Apps/vcpkg/scripts/buildsystems/vcpkg.cmake
